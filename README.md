@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor de la Mottte</h1>
+<h1 align="center">Hi 👋, I'm Victor de la Motte</h1>
 <h3 align="center">Young knowledge-hungry full-stack developer from Berlin</h3>
 
 - 🌱 I’m currently learning **BackEndDevelopent**
